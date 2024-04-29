@@ -26,5 +26,5 @@ We meticulously examined the top batsmen based on runs, balls faced, and strike 
 🔢 Statistical Insights:
 We dived deep into the numbers to extract invaluable stats on team performance, toss decisions, and batsmen's records. As expected, Mumbai Indians and Chennai Super Kings shone brightly as dominant forces.
 
-📉 Conclusion
+📉 Conclusion:
 For all the cricket enthusiasts and data aficionados out there, we've uncovered a treasure trove of insights in this EDA. If you're eager for more details or just want to talk cricket stats, feel free to reach out. Stay tuned for more exciting explorations on the horizon!
